@@ -17,7 +17,7 @@ yarn
 yarn dev
 
 # Make a production build
-yarn prod
+yarn build
 ```
 
 ## What's inside
