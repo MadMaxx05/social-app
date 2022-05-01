@@ -1,6 +1,7 @@
 # Social App
 
 Frontend by [Maxim Kucherenko](https://github.com/MadMaxx05)
+
 Backend by [Arseniy Bodnar](https://github.com/CHERNIYkvadrat1)
 
 ## Usage (Yarn example)
