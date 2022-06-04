@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .svg-gray {
+        filter: invert(62%) sepia(0%) saturate(372%) hue-rotate(176deg) brightness(86%) contrast(83%);
+    }
+}
