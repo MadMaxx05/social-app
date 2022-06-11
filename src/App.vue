@@ -9,7 +9,7 @@ import { RouterView } from 'vue-router';
 <style>
 body {
   box-sizing: border-box;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   position: relative;
   width: 100%;
