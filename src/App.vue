@@ -11,11 +11,11 @@ body {
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
   font-size: 16px;
-  position: relative;
   width: 100%;
 }
 
 #app {
+  position: relative;
   min-height: 100vh;
 }
 </style>

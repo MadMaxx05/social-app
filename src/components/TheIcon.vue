@@ -9,11 +9,5 @@ function getIcon(icon) {
 </script>
 
 <template>
-  <img
-    class="select-none"
-    :src="getIcon(props.icon)"
-    width="24"
-    height="24"
-    alt
-  />
+  <img class="select-none" :src="getIcon(props.icon)" height="24" alt />
 </template>
